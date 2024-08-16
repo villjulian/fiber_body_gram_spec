@@ -28,3 +28,7 @@ directions = S[4]
 
 To then draw the picture use
 ```draw_fb()```.
+
+The picture should look similar to 
+
+<img src="fb_binary_sextics.png" alt="fiber body" width="500"/>
